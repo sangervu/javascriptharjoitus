@@ -1,0 +1,2 @@
+# javascriptharjoitus
+AMK javascript -harjoitukset
